@@ -1,4 +1,4 @@
 mvnw
 mvnw.cmd
-/target/
+target/*
 HELP.md
